@@ -1,0 +1,21 @@
+Tags in HTML?
+Ans: HTML- Hyper text markup language.
+<head>
+<title>
+<script>
+<link>
+<body>
+<h1> to <h6>
+<p>
+<form>
+<ol>
+<ul>
+<a>
+<img>
+<br>
+<hr>
+<style>
+<div>
+<b>
+<input>
+<label>
